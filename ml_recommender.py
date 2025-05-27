@@ -9,8 +9,8 @@ Original file is located at
 
 #  !pip install streamlit
 #  !pip install plotly
-pip install -r requirements.txt
-pip install --upgrade pip
+# pip install -r requirements.txt
+# pip install --upgrade pip
 
 import streamlit as st
 from PIL import Image
